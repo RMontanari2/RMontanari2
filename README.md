@@ -1,43 +1,52 @@
-# 👋 Olá! Eu sou o Ruan
+# Ruan Montanari
 
-Desenvolvedor **Front-end** focado em **TypeScript**, **Angular** e criação de interfaces que respiram fluidez.  
-Aqui no meu espaço você encontra experimentos, projetos e pequenas aventuras de código.
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=4000&color=00F7FF&center=true&vCenter=true&width=800&lines=Front-end+Engineer;Angular+%7C+TypeScript;Building+interfaces+that+feel+right" />
+</p>
 
----
-
-## 🚀 Tecnologias principais
-- **TypeScript**
-- **Angular**
-- HTML / CSS
-- UI/UX e componentização
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RMontanari2&theme=tokyonight&hide_border=true"/>
+</p>
 
 ---
 
-## 📊 Estatísticas do GitHub
+## Who I am
 
-<div align="center">
-
-![Stats](https://github-readme-stats.vercel.app/api?username=RMontanari2&show_icons=true&theme=tokyonight)  
-![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RMontanari2&layout=compact&theme=tokyonight)
-
-</div>
+I build front-end systems with a focus on clarity, performance and scalability.
+My goal is simple: interfaces that are intuitive to use and clean to maintain.
 
 ---
 
-## 🛡 Badges
+## Tech Focus
 
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=fff)
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=fff)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=fff)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=fff)
-
----
-
-![Coding GIF](https://media.giphy.com/media/3o7abB06u9bNzA8lu8/giphy.gif)
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=ts,angular,html,css,js,git" />
+</p>
 
 ---
 
-## 📬 Contato
-Se quiser trocar uma ideia ou colaborar em algo, me chama!
+## What drives my work
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Ruan%20Montanari-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ruan-cardozo-montanari/)
+* Structured and scalable front-end architecture
+* Component-driven development
+* UI that reduces friction, not adds to it
+* Clean code that other developers can understand instantly
+
+---
+
+## Activity
+
+<p align="center">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=RMontanari2&show_icons=true&theme=tokyonight&hide_border=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RMontanari2&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
+
+---
+
+## Contact
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/ruan-cardozo-montanari/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+</p>
